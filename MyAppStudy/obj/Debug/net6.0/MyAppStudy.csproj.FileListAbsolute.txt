@@ -1,0 +1,15 @@
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\bin\Debug\net6.0\MyAppStudy.exe
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\bin\Debug\net6.0\MyAppStudy.deps.json
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\bin\Debug\net6.0\MyAppStudy.runtimeconfig.json
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\bin\Debug\net6.0\MyAppStudy.dll
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\bin\Debug\net6.0\ref\MyAppStudy.dll
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\bin\Debug\net6.0\MyAppStudy.pdb
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\obj\Debug\net6.0\MyAppStudy.csproj.AssemblyReference.cache
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\obj\Debug\net6.0\MyAppStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\obj\Debug\net6.0\MyAppStudy.AssemblyInfoInputs.cache
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\obj\Debug\net6.0\MyAppStudy.AssemblyInfo.cs
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\obj\Debug\net6.0\MyAppStudy.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\obj\Debug\net6.0\MyAppStudy.dll
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\obj\Debug\net6.0\ref\MyAppStudy.dll
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\obj\Debug\net6.0\MyAppStudy.pdb
+C:\Users\Eduardo Silva\source\repos\MyApp\MyAppStudy\obj\Debug\net6.0\MyAppStudy.genruntimeconfig.cache
